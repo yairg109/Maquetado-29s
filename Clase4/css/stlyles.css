@@ -1,0 +1,21 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    outline:red solid;
+}
+.box{
+    width: 150px;
+    height: 150px;
+    background-color:aquamarine;
+    margin: 20px 0;
+    text-align: center;
+}
+/*Para posicionarse*/
+/*Las clases son las que yo quiera*/
+.relative {
+    position: relative;
+    left: 200px;
+}
+.absolute{
+    position: absolute;
+    top: 0;
+}
